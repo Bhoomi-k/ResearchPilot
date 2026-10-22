@@ -1,0 +1,21 @@
+
+# LangChain and legacy agent components
+langchain
+langchain-classic
+
+# Groq LLM integration (no OpenAI libraries)
+langchain-groq
+
+# Tavily live web search
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+#for app.py
+torchvision
